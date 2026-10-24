@@ -1,0 +1,135 @@
+snapshot_date,category,region_scope,listing_count,salary_p10,salary_p50,salary_p90,salary_unit
+2026-10,AI Trainer/Data Labeling,Unspecified,8,,,,hourly_usd
+2026-10,Account Executive,Canada-only,5,,,,annual_usd
+2026-10,Account Executive,Other-restricted,6,,,,annual_usd
+2026-10,Account Executive,US-only,234,80000,160000,302500,annual_usd
+2026-10,Account Executive,Unspecified,31,90160,157500,279721,annual_usd
+2026-10,Account Manager,US-only,106,73750,113750,192169,annual_usd
+2026-10,Account Manager,Unspecified,16,59000,90000,165500,annual_usd
+2026-10,Accounting,US-only,50,76750,130500,188750,annual_usd
+2026-10,Accounting,Unspecified,13,67500,92500,149000,annual_usd
+2026-10,Actuary,US-only,9,,,,annual_usd
+2026-10,Analytics Engineer,US-only,9,,,,annual_usd
+2026-10,Analytics Engineer,Unspecified,5,,,,annual_usd
+2026-10,Attorney/Lawyer,US-only,44,,,,annual_usd
+2026-10,Attorney/Lawyer,US-only,7,,,,hourly_usd
+2026-10,Behavioral Health,US-only,11,,,,annual_usd
+2026-10,Behavioral Health,US-only,9,,,,hourly_usd
+2026-10,Billing Specialist,US-only,9,,,,annual_usd
+2026-10,Business Analyst,US-only,5,,,,annual_usd
+2026-10,Business Development,US-only,54,58300,117500,221291,annual_usd
+2026-10,Business Development,Unspecified,10,59500,112500,168500,annual_usd
+2026-10,Chief of Staff,US-only,6,,,,annual_usd
+2026-10,Cloud Engineer/Solutions Architect/Cloud Architect,US-only,61,137068,177250,230445,annual_usd
+2026-10,Cloud Engineer/Solutions Architect/Cloud Architect,Unspecified,10,144000,175375,204790,annual_usd
+2026-10,Compliance,US-only,27,80750,140050,214875,annual_usd
+2026-10,Compliance,Unspecified,9,,,,annual_usd
+2026-10,Content Marketing,US-only,7,,,,annual_usd
+2026-10,Controller,US-only,12,107500,140000,256500,annual_usd
+2026-10,Counsel,US-only,59,160250,205000,277250,annual_usd
+2026-10,Counsel,Unspecified,8,,,,annual_usd
+2026-10,Customer Service,US-only,20,13.0,20.0,25.6,hourly_usd
+2026-10,Customer Service,Unspecified,6,,,,hourly_usd
+2026-10,Customer Success,US-only,50,82260,125000,167930,annual_usd
+2026-10,Customer Success,Unspecified,11,70000,142500,197750,annual_usd
+2026-10,Data Analyst,US-only,14,76900,105875,171964,annual_usd
+2026-10,Data Analyst,Unspecified,6,,,,annual_usd
+2026-10,Data Engineer,Other-restricted,5,,,,annual_usd
+2026-10,Data Engineer,US-only,31,106821,165000,200000,annual_usd
+2026-10,Data Engineer,Unspecified,12,111750,155000,184500,annual_usd
+2026-10,Data Scientist,Other-restricted,6,,,,annual_usd
+2026-10,Data Scientist,US-only,44,119600,178000,210000,annual_usd
+2026-10,Data Scientist,Unspecified,5,,,,annual_usd
+2026-10,DevOps/SRE/Platform Engineer,Other-restricted,5,,,,annual_usd
+2026-10,DevOps/SRE/Platform Engineer,US-only,55,125250,174250,231600,annual_usd
+2026-10,DevOps/SRE/Platform Engineer,Unspecified,9,,,,annual_usd
+2026-10,Editor,US-only,5,,,,annual_usd
+2026-10,Engineering Manager/Tech Lead,Other-restricted,13,195800,239750,262000,annual_usd
+2026-10,Engineering Manager/Tech Lead,US-only,73,153040,215262,279600,annual_usd
+2026-10,Engineering Manager/Tech Lead,Unspecified,7,,,,annual_usd
+2026-10,Enterprise Sales/Key Account Manager,US-only,15,152059,200000,364600,annual_usd
+2026-10,Executive Assistant,US-only,5,,,,annual_usd
+2026-10,FP&A,US-only,14,117250,155200,205000,annual_usd
+2026-10,FP&A,Unspecified,5,,,,annual_usd
+2026-10,Growth Marketing/Digital Marketing,US-only,22,107500,165600,230000,annual_usd
+2026-10,Insurance,US-only,8,,,,annual_usd
+2026-10,Insurance Underwriter,US-only,5,,,,annual_usd
+2026-10,Journalist/News Analyst/Reporter,US-only,10,,,,annual_usd
+2026-10,LPN,US-only,7,,,,hourly_usd
+2026-10,Legal,US-only,18,118017,202750,317115,annual_usd
+2026-10,ML Engineer/AI Engineer,Other-restricted,6,,,,annual_usd
+2026-10,ML Engineer/AI Engineer,US-only,44,142912,190625,235606,annual_usd
+2026-10,ML Engineer/AI Engineer,Unspecified,7,,,,annual_usd
+2026-10,Market Research Analyst/Marketing Specialist,US-only,5,,,,annual_usd
+2026-10,Marketing Manager,Other-restricted,5,,,,annual_usd
+2026-10,Marketing Manager,US-only,70,109550,142450,206500,annual_usd
+2026-10,Marketing Manager,Unspecified,12,102500,130000,157500,annual_usd
+2026-10,Marketing Ops,US-only,9,,,,annual_usd
+2026-10,Medical Assistant,US-only,7,,,,hourly_usd
+2026-10,Mental Health Therapist,US-only,21,76400,82650,95500,annual_usd
+2026-10,Mental Health Therapist,US-only,13,,,,hourly_usd
+2026-10,Mobile Engineer,US-only,12,149750,176250,202725,annual_usd
+2026-10,Nurse Practitioner,US-only,24,123500,132500,171320,annual_usd
+2026-10,Nurse Practitioner,US-only,26,56.0,67.5,103.3,hourly_usd
+2026-10,Nurse Practitioner,Unspecified,5,,,,annual_usd
+2026-10,Nurse Practitioner,Unspecified,7,,,,hourly_usd
+2026-10,Nursing,US-only,34,87862,130000,158375,annual_usd
+2026-10,Nursing,US-only,42,35.0,63.75,95.0,hourly_usd
+2026-10,Nursing,Unspecified,12,90150,125000,149000,annual_usd
+2026-10,Nursing,Unspecified,18,23.15,41.5,81.25,hourly_usd
+2026-10,Operations Manager,US-only,30,99000,130500,177671,annual_usd
+2026-10,Operations Manager,Unspecified,8,,,,annual_usd
+2026-10,Paid Media/PPC/Demand Generation,US-only,27,89500,125000,188950,annual_usd
+2026-10,Paralegal,US-only,8,,,,annual_usd
+2026-10,Partnerships,US-only,52,99900,159105,242620,annual_usd
+2026-10,Partnerships,Unspecified,12,107750,163500,317500,annual_usd
+2026-10,Payroll,US-only,12,78200,105000,168700,annual_usd
+2026-10,People Operations,US-only,8,,,,annual_usd
+2026-10,People Operations,Unspecified,5,,,,annual_usd
+2026-10,Pharmacy Technician,Unspecified,8,,,,hourly_usd
+2026-10,Physician,US-only,18,97750,235250,301250,annual_usd
+2026-10,Physician,US-only,17,115.0,150.0,180.5,hourly_usd
+2026-10,Physician,Unspecified,5,,,,annual_usd
+2026-10,Physician,Unspecified,6,,,,hourly_usd
+2026-10,Physician Assistant,US-only,8,,,,annual_usd
+2026-10,Physician Assistant,US-only,5,,,,hourly_usd
+2026-10,Procurement,US-only,13,80000,154319,202000,annual_usd
+2026-10,Product Designer,US-only,24,126500,176000,223000,annual_usd
+2026-10,Product Designer,Unspecified,6,,,,annual_usd
+2026-10,Product Manager,Canada-only,5,,,,annual_usd
+2026-10,Product Manager,US-only,151,140000,185400,246620,annual_usd
+2026-10,Product Manager,Unspecified,27,115500,160000,215650,annual_usd
+2026-10,Product Marketing Manager,Other-restricted,5,,,,annual_usd
+2026-10,Product Marketing Manager,US-only,39,121200,160000,215500,annual_usd
+2026-10,Program Manager,US-only,40,122065,165000,210542,annual_usd
+2026-10,Project Manager,US-only,44,84800,132500,166500,annual_usd
+2026-10,Project Manager,Unspecified,8,,,,annual_usd
+2026-10,Recruiter,US-only,23,71500,125000,181130,annual_usd
+2026-10,Recruiter,Unspecified,13,49100,79500,148000,annual_usd
+2026-10,Revenue Operations,US-only,17,96875,162500,218833,annual_usd
+2026-10,Revenue Operations,Unspecified,11,89000,150000,205000,annual_usd
+2026-10,Sales Engineer/Solutions Engineer/Solutions Consultant,US-only,58,120000,171300,227000,annual_usd
+2026-10,Sales Engineer/Solutions Engineer/Solutions Consultant,Unspecified,6,,,,annual_usd
+2026-10,Sales Manager/Executive,US-only,50,99700,167500,353000,annual_usd
+2026-10,Sales Manager/Executive,Unspecified,5,,,,annual_usd
+2026-10,Sales Ops,US-only,6,,,,annual_usd
+2026-10,Sales Trainer/Sales Enablement,US-only,8,,,,annual_usd
+2026-10,Search Marketing Strategist/SEO,US-only,9,,,,annual_usd
+2026-10,Security Engineer,US-only,41,143917,200000,256775,annual_usd
+2026-10,Security Engineer,Unspecified,14,151000,185000,229500,annual_usd
+2026-10,Social Media Manager,US-only,8,,,,annual_usd
+2026-10,Software Engineer,Canada-only,23,138200,161000,216975,annual_usd
+2026-10,Software Engineer,Other-restricted,64,61000,175000,252000,annual_usd
+2026-10,Software Engineer,Other-restricted,9,,,,hourly_usd
+2026-10,Software Engineer,US-only,335,131672,180000,230450,annual_usd
+2026-10,Software Engineer,US-only,8,,,,hourly_usd
+2026-10,Software Engineer,Unspecified,64,99350,178750,235000,annual_usd
+2026-10,Software Engineer,Unspecified,10,,,,hourly_usd
+2026-10,Speech-Language Pathologist,US-only,7,,,,hourly_usd
+2026-10,Systems Administrator,US-only,5,,,,annual_usd
+2026-10,Technical Product Manager,US-only,12,156150,175000,213500,annual_usd
+2026-10,Technical Support,US-only,8,,,,annual_usd
+2026-10,Tutor,US-only,13,,,,hourly_usd
+2026-10,Tutor,Unspecified,6,,,,hourly_usd
+2026-10,Writing,US-only,8,,,,annual_usd
+2026-10,iOS,US-only,8,,,,annual_usd
