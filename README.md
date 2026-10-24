@@ -1,8 +1,10 @@
-# Remote Job Salary Aggregates (US-dollar pay, by role and region)
+# Remote Job Salaries by Role and Region
 
 Snapshot of salaries in remote job postings, aggregated by role and region. Each row is a count of open
 postings plus the 10th, 50th and 90th percentile of their pay. There are no individual postings, companies, links
 or job descriptions in this dataset.
+
+Canonical source: https://remotelanders.com/data/remote-job-salaries (monthly snapshots, CC BY 4.0).
 
 Compiled by [Remote Landers](https://remotelanders.com), a remote job board. Postings are collected from employers'
 own careers pages.
@@ -73,8 +75,8 @@ A role/region that is missing from a snapshot was below the thresholds at that t
 
 This dataset is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 You may share and adapt it for any purpose, including commercially, as long as you credit "Remote Landers" and
-link to https://remotelanders.com.
+link to https://remotelanders.com/data/remote-job-salaries.
 
-Suggested citation: Remote Landers, *Remote Job Salary Aggregates*, 2026-10 snapshot. https://remotelanders.com
+Suggested citation: Remote Landers, *Remote Job Salaries*, 2026-10 snapshot. https://remotelanders.com/data/remote-job-salaries
 
 Questions or corrections: contact@remotelanders.com
